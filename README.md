@@ -42,10 +42,17 @@
    git clone https://github.com/Chomphoo46/FixSci-projects.git
    cd science-fixit.git
    ```
-
-2. Set Up the Backend: For detailed instructions on setting up the backend, refer to the [Backend README](./Backend/README.md#️-setup-and-installation).
-
-3. Set Up the Frontend: For detailed instructions on setting up the frontend, refer to the [Frontend README](./Frontend/README.md#-setup-and-installation).
+2. Install Dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the Application:
+   ```bash
+   npm run dev
+   ```
+## 📌 หมายเหตุ
+โปรเจคนี้เป็น Frontend เท่านั้น ไม่มีระบบ Backend
+จำเป็นต้องเชื่อมต่อ API สำหรับจัดการข้อมูล
 
 ## 📝 License
 
