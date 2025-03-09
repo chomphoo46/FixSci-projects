@@ -51,7 +51,7 @@
    npm run dev
    ```
 ## 📌 Note
-This project is Frontend only and does not include a Backend.
+This project is **Frontend only** and does not include a Backend.
 An API connection is required for data management.
 
 ## 📝 License
