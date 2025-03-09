@@ -39,7 +39,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jumpogpo/science-fixit.git
+   git clone https://github.com/Chomphoo46/FixSci-projects.git
    cd science-fixit.git
    ```
 
