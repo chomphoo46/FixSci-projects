@@ -50,9 +50,9 @@
    ```bash
    npm run dev
    ```
-## 📌 หมายเหตุ
-โปรเจคนี้เป็น Frontend เท่านั้น ไม่มีระบบ Backend
-จำเป็นต้องเชื่อมต่อ API สำหรับจัดการข้อมูล
+## 📌 Note
+This project is Frontend only and does not include a Backend.
+An API connection is required for data management.
 
 ## 📝 License
 
