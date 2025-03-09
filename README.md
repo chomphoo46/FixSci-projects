@@ -15,3 +15,7 @@
 ```sh
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+### 2️⃣ ติดตั้ง Dependencies
+```sh
+npm install
+ 
